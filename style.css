@@ -1,0 +1,13 @@
+h1 {
+    color: maroon;
+}
+body {
+    background-color: darkkhaki;
+    font-style: italic;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+input {
+    background-color:lightblue;
+    color: darkred;
+}
